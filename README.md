@@ -1,9 +1,8 @@
 # AluraTyper
-Jquery Course
 
-A aplicação é um jogo envolvente divertido, onde e aprensetado uma frase para que voê digite os mais rápido possível. Enquanto você entra com a frase o programa conta quantas letras/ palavras e estão certas e no fim exibe o placar. Prontos para testar!?
+jogo envolvente divertido, onde e aprensetado uma frase para que voê digite os mais rápido possível. Enquanto você entra com a frase o programa conta quantas letras/palavras estão certas e no fim exibe o placar. Prontos para testar!?
 
-Para ter a melhor experiencia, foi criado um mini banco com algumas frases. Para ter acesso a essa funcinalidade basta rodar o comando "npm start" na pasta: "/servidor".
+Para ter acesso a todas funcinalidade como mudanças de frases, basta rodar o comando "npm start" na pasta: "/servidor".
 
 aprendizados ao longo do curso:
   
