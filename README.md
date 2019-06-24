@@ -2,7 +2,9 @@
 
 jogo envolvente divertido, onde e aprensetado uma frase para que voê digite os mais rápido possível. Enquanto você entra com a frase o programa conta quantas letras/palavras estão certas e no fim exibe o placar. Prontos para testar!?
 
-Para ter acesso a todas funcinalidade como mudanças de frases, basta rodar o comando "npm start" na pasta: "/servidor".
+Para ter acesso a todas funcinalidade como mudanças de frases. É necessário ter node instalno na máquina (https://nodejs.org/en/)
+
+Feito a intalação do node, basta rodar o comando "npm install" para instalar todas as depedências necessárias, então entrar o comando  "npm start" dentro do diretório: "/servidor". Uma instância do servidor será criada na porta 3000, podendo ter acessoa o servidor pelo link. ("http://localhost:3000"). Agora é hora da diversão.... 
 
 aprendizados ao longo do curso:
   
